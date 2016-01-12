@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ProyectP7</string>
+    <string name="app_id">785948294848324</string>
+    <string name="name">User name</string>
+    <string name="server_client_id">717938831644-n9uilued8vfgnltdc17espisojg3ildd.apps.googleusercontent.com</string>
+    <string name="bien">¡Welcome!</string>
+
+    <string name="btnSignin">Sign In</string>
+    <string name="btnSignOut">Sign Out</string>
+    <string name="signed_out">Out of Sesion</string>
+    <string name="signed_out2">You are out</string>
+    <string name="loading">Loading</string>
+    <string name="signed_in1">User: %s</string>
+    <string name="signed_in2">E-mail: %s</string>
+    <!--Database-->
+
+    <string name="sBuscar">Search</string>
+    <string name="sInsertar">Formulary - New User</string>
+    <string name="sNombre">Name:</string>
+    <string name="sPass">Password:</string>
+    <string name="sEmail">E-mail:</string>
+    <string name="sPhone">Phone:</string>
+    <string name="sBotonInsertar">Acept</string>
+    <string name="Reg">Register</string>
+    <string name="log">Log in</string>
+</resources>
